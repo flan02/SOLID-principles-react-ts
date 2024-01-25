@@ -39,3 +39,6 @@ function App() {
 }
 ```
 
+`La branch dev no tiene funcionalidad alguna en este proyecto
+`
+
